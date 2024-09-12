@@ -1,1 +1,1 @@
-This is test to connect vs code to git
+This is second test to connect vs code to git
